@@ -12,9 +12,9 @@ function Footer() {
 
       </p>
       <p>
-        Contact: <a href="mailto:info@studentmanagement.com">info@studentmanagement.com</a> 
-        phone: <a href="tel:+91 7842366578">+91 7842366578</a>
-        </p>     
+        Contact: <a href="mailto:info@studentmanagement.com" style={{ color: 'white' }}>info@studentmanagement.com</a>  </p>
+        <p> phone: <a href="tel:+91 7842366578" style={{ color: 'white' }}>+91 7842366578</a></p>
+        
       <p>
 
         © 2026 All Rights Reserved.
