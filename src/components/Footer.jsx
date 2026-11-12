@@ -11,7 +11,10 @@ function Footer() {
         Manage student records easily with React JS.
 
       </p>
-
+      <p>
+        Contact: <a href="mailto:info@studentmanagement.com">info@studentmanagement.com</a> 
+        phone: <a href="tel:+91 7842366578">+91 7842366578</a>
+        </p>     
       <p>
 
         © 2026 All Rights Reserved.
