@@ -4,7 +4,6 @@ import { useTheme } from "../context/ThemeContext";
 
 import { useDispatch, useSelector } from "react-redux";
 
-import { changeLayout } from "../redux/themeSlice";
 
 function Navbar() {
 
@@ -45,12 +44,6 @@ function Navbar() {
         <button onClick={changeTheme}>
 
           {theme === "light" ? "Dark Mode" : "Light Mode"}
-
-        </button>
-
-        <button onClick={() => dispatch(changeLayout())}>
-
-          {compact ? "Normal Layout" : "Compact Layout"}
 
         </button>
 

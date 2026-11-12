@@ -12,12 +12,6 @@ const themeSlice = createSlice({
 
   reducers: {
 
-    changeLayout: (state) => {
-
-      state.compact = !state.compact;
-
-    }
-
   }
 
 });
